@@ -16,7 +16,7 @@ function B(){
 	Hello world!  
 </h1>
 
-<P>  The time on the server is ${serverTime}. </P>
+<P>  The time on the server is ${serverTime}. 변경 </P>
 
 <input type="button" onclick="B()" method="GET" value="Ajax로 이미지 업로드">
 </body>
